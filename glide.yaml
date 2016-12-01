@@ -1,0 +1,5 @@
+package: github.com/v4lproik/go-lang
+import:
+- package: github.com/juju/loggo
+- package: github.com/jessevdk/go-flags
+- package: github.com/PuerkitoBio/goquery
